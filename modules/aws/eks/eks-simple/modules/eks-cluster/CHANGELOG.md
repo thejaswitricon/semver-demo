@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# [1.1.0](https://github.com/thejaswitricon/semver-demo/compare/aws/eks/eks-cluster-v1.0.0...aws/eks/eks-cluster-v1.1.0) (2023-07-27)
+
+
+### Features
+
+* **eks-simple:** url update ([63f952f](https://github.com/thejaswitricon/semver-demo/commit/63f952f301a5bed07c78c713484307b99917ae9d))
+
 # 1.0.0 (2023-07-27)
 
 
